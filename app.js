@@ -1,1 +1,2 @@
-console.log("i am irfan form gottigere")-Forn
+console.log("i am irfan form gottigere")
+//Forn
